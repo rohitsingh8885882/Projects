@@ -1,3 +1,5 @@
+/claim #3180
+
 # sbt-openapi-codegen
 
 An SBT plugin for generating Scala code from OpenAPI specifications with support for automatic code generation on file changes.
