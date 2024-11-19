@@ -1,0 +1,142 @@
+2024.11.19 11:24:09 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\Asus\Downloads\project' for client Visual Studio Code 1.95.3.
+2024.11.19 11:24:11 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.19 11:24:11 INFO  no build target found for C:\Users\Asus\Downloads\project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.19 11:24:13 INFO  no build target found for C:\Users\Asus\Downloads\project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.19 11:24:13 INFO  no build target found for C:\Users\Asus\Downloads\project\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.19 11:24:13 INFO  no build target found for C:\Users\Asus\Downloads\project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.19 11:24:13 INFO  no build target found for C:\Users\Asus\Downloads\project\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.19 11:24:15 WARN  Could not find semantic tokens for: file:///C:/Users/Asus/Downloads/project/project/plugins.sbt
+2024.11.19 11:24:18 INFO  running 'C:\Users\Asus\AppData\Local\Coursier\cache\arc\https\github.com\adoptium\temurin17-binaries\releases\download\jdk-17.0.13%252B11\OpenJDK17U-jdk_x64_windows_hotspot_17.0.13_11.zip\jdk-17.0.13+11\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -Dsbt.version=1.10.5 -jar C:\Users\Asus\AppData\Local\Temp\metals8687387871404667894\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.11.19 11:24:18 INFO  no build target found for C:\Users\Asus\Downloads\project\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.19 11:24:19 ERROR [info] [launcher] getting org.scala-sbt sbt 1.10.5  (this may take some time)...
+2024.11.19 11:24:23 INFO  no build target found for C:\Users\Asus\Downloads\project\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.19 11:24:23 INFO  no build target found for C:\Users\Asus\Downloads\project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.19 11:24:23 INFO  no build target found for C:\Users\Asus\Downloads\project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.19 11:24:23 WARN  Could not find semantic tokens for: file:///C:/Users/Asus/Downloads/project/build.sbt
+2024.11.19 11:24:24 INFO  no build target found for C:\Users\Asus\Downloads\project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.19 11:24:24 INFO  no build target found for C:\Users\Asus\Downloads\project\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.19 11:24:24 INFO  no build target found for C:\Users\Asus\Downloads\project\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.19 11:24:25 INFO  no build target found for C:\Users\Asus\Downloads\project\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+Nov 19, 2024 11:24:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29
+2024.11.19 11:24:24 INFO  no build target found for C:\Users\Asus\Downloads\project\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.19 11:24:45 ERROR [info] [launcher] getting Scala 2.12.20 (for sbt)...
+2024.11.19 11:24:51 INFO  [info] Updated file C:\Users\Asus\Downloads\project\project\build.properties: set sbt.version to 1.10.5
+2024.11.19 11:24:51 INFO  [info] welcome to sbt 1.10.5 (Eclipse Adoptium Java 17.0.13)
+2024.11.19 11:24:56 INFO  [info] loading settings for project project-build-build-build from metals.sbt ...
+2024.11.19 11:24:57 INFO  [info] loading project definition from C:\Users\Asus\Downloads\project\project\project\project
+2024.11.19 11:25:04 INFO  [info] loading settings for project project-build-build from metals.sbt ...
+2024.11.19 11:25:04 INFO  [info] loading project definition from C:\Users\Asus\Downloads\project\project\project
+2024.11.19 11:25:18 INFO  [success] Generated .bloop\project-build-build.json
+2024.11.19 11:25:18 INFO  [success] Total time: 13 s, completed Nov 19, 2024, 11:25:18 AM
+2024.11.19 11:25:20 INFO  [info] loading settings for project project-build from metals.sbt,plugins.sbt ...
+2024.11.19 11:25:20 INFO  [info] loading project definition from C:\Users\Asus\Downloads\project\project
+2024.11.19 11:25:32 INFO  [warn] 
+2024.11.19 11:25:32 INFO  [warn] 	Note: Some unresolved dependencies have extra attributes.  Check that these dependencies exist with the requested attributes.
+2024.11.19 11:25:32 INFO  [warn] 		com.example:sbt-openapi-codegen:0.1.0-SNAPSHOT (sbtVersion=1.0, scalaVersion=2.12)
+2024.11.19 11:25:32 INFO  [warn] 
+2024.11.19 11:25:32 INFO  [warn] 	Note: Unresolved dependencies path:
+2024.11.19 11:25:32 INFO  [error] Couldn't run bloopGenerate. The issue could be caused by failing to compile the project.
+2024.11.19 11:25:32 INFO  [error] sbt.librarymanagement.ResolveException: Error downloading com.example:sbt-openapi-codegen;sbtVersion=1.0;scalaVersion=2.12:0.1.0-SNAPSHOT
+2024.11.19 11:25:32 INFO  [error]   Not found
+2024.11.19 11:25:32 INFO  [error]   Not found
+2024.11.19 11:25:32 INFO  [error]   not found: https://repo1.maven.org/maven2/com/example/sbt-openapi-codegen_2.12_1.0/0.1.0-SNAPSHOT/sbt-openapi-codegen-0.1.0-SNAPSHOT.pom
+2024.11.19 11:25:32 INFO  [error]   not found: C:\Users\Asus\.ivy2\localcom.example\sbt-openapi-codegen\scala_2.12\sbt_1.0\0.1.0-SNAPSHOT\ivys\ivy.xml
+2024.11.19 11:25:32 INFO  [error]   not found: https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.example/sbt-openapi-codegen/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/ivys/ivy.xml
+2024.11.19 11:25:32 INFO  [error]   not found: https://repo.typesafe.com/typesafe/ivy-releases/com.example/sbt-openapi-codegen/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/ivys/ivy.xml
+2024.11.19 11:25:32 INFO  [error] 	at lmcoursier.CoursierDependencyResolution.unresolvedWarningOrThrow(CoursierDependencyResolution.scala:346)
+2024.11.19 11:25:32 INFO  [error] 	at lmcoursier.CoursierDependencyResolution.$anonfun$update$39(CoursierDependencyResolution.scala:315)
+2024.11.19 11:25:32 INFO  [error] 	at scala.util.Either$LeftProjection.map(Either.scala:573)
+2024.11.19 11:25:32 INFO  [error] 	at lmcoursier.CoursierDependencyResolution.update(CoursierDependencyResolution.scala:315)
+2024.11.19 11:25:32 INFO  [error] 	at sbt.librarymanagement.DependencyResolution.update(DependencyResolution.scala:60)
+2024.11.19 11:25:32 INFO  [error] 	at sbt.internal.LibraryManagement$.resolve$1(LibraryManagement.scala:60)
+2024.11.19 11:25:32 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$12(LibraryManagement.scala:142)
+2024.11.19 11:25:32 INFO  [error] 	at sbt.util.Tracked$.$anonfun$lastOutput$1(Tracked.scala:74)
+2024.11.19 11:25:32 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$11(LibraryManagement.scala:144)
+2024.11.19 11:25:32 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$11$adapted(LibraryManagement.scala:131)
+2024.11.19 11:25:32 INFO  [error] 	at sbt.util.Tracked$.$anonfun$inputChangedW$1(Tracked.scala:220)
+2024.11.19 11:25:32 INFO  [error] 	at sbt.internal.LibraryManagement$.cachedUpdate(LibraryManagement.scala:169)
+2024.11.19 11:25:32 INFO  [error] 	at sbt.Classpaths$.$anonfun$updateTask0$1(Defaults.scala:3888)
+2024.11.19 11:25:32 INFO  [error] 	at scala.Function1.$anonfun$compose$1(Function1.scala:49)
+2024.11.19 11:25:32 INFO  [error] 	at sbt.internal.util.$tilde$greater.$anonfun$$u2219$1(TypeFunctions.scala:63)
+2024.11.19 11:25:32 INFO  [error] 	at sbt.std.Transform$$anon$4.work(Transform.scala:69)
+2024.11.19 11:25:32 INFO  [error] 	at sbt.Execute.$anonfun$submit$2(Execute.scala:283)
+2024.11.19 11:25:32 INFO  [error] 	at sbt.internal.util.ErrorHandling$.wideConvert(ErrorHandling.scala:24)
+2024.11.19 11:25:32 INFO  [error] 	at sbt.Execute.work(Execute.scala:292)
+2024.11.19 11:25:32 INFO  [error] 	at sbt.Execute.$anonfun$submit$1(Execute.scala:283)
+2024.11.19 11:25:32 INFO  [error] 	at sbt.ConcurrentRestrictions$$anon$4.$anonfun$submitValid$1(ConcurrentRestrictions.scala:265)
+2024.11.19 11:25:32 INFO  [error] 	at sbt.CompletionService$$anon$2.call(CompletionService.scala:65)
+2024.11.19 11:25:32 INFO  [error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+2024.11.19 11:25:32 INFO  [error] 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+2024.11.19 11:25:32 INFO  [error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+2024.11.19 11:25:32 INFO  [error] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+2024.11.19 11:25:32 INFO  [error] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+2024.11.19 11:25:32 INFO  [error] 	at java.base/java.lang.Thread.run(Thread.java:840)
+2024.11.19 11:25:32 INFO  [error] (update) sbt.librarymanagement.ResolveException: Error downloading com.example:sbt-openapi-codegen;sbtVersion=1.0;scalaVersion=2.12:0.1.0-SNAPSHOT
+2024.11.19 11:25:32 INFO  [error]   Not found
+2024.11.19 11:25:32 INFO  [error]   Not found
+2024.11.19 11:25:32 INFO  [error]   not found: https://repo1.maven.org/maven2/com/example/sbt-openapi-codegen_2.12_1.0/0.1.0-SNAPSHOT/sbt-openapi-codegen-0.1.0-SNAPSHOT.pom
+2024.11.19 11:25:32 INFO  [error]   not found: C:\Users\Asus\.ivy2\localcom.example\sbt-openapi-codegen\scala_2.12\sbt_1.0\0.1.0-SNAPSHOT\ivys\ivy.xml
+2024.11.19 11:25:32 INFO  [error]   not found: https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.example/sbt-openapi-codegen/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/ivys/ivy.xml
+2024.11.19 11:25:32 INFO  [error]   not found: https://repo.typesafe.com/typesafe/ivy-releases/com.example/sbt-openapi-codegen/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/ivys/ivy.xml
+2024.11.19 11:25:32 INFO  [error] Total time: 13 s, completed Nov 19, 2024, 11:25:33 AM
+2024.11.19 11:25:32 INFO  [warn] Project loading failed: (r)etry, (q)uit, (l)ast, or (i)gnore? (default: r)
+2024.11.19 11:25:42 INFO  [warn] 
+2024.11.19 11:25:42 INFO  [warn] 	Note: Some unresolved dependencies have extra attributes.  Check that these dependencies exist with the requested attributes.
+2024.11.19 11:25:42 INFO  [warn] 		com.example:sbt-openapi-codegen:0.1.0-SNAPSHOT (sbtVersion=1.0, scalaVersion=2.12)
+2024.11.19 11:25:42 INFO  [warn] 
+2024.11.19 11:25:42 INFO  [warn] 	Note: Unresolved dependencies path:
+2024.11.19 11:25:42 INFO  [error] sbt.librarymanagement.ResolveException: Error downloading com.example:sbt-openapi-codegen;sbtVersion=1.0;scalaVersion=2.12:0.1.0-SNAPSHOT
+2024.11.19 11:25:42 INFO  [error]   Not found
+2024.11.19 11:25:42 INFO  [error]   Not found
+2024.11.19 11:25:42 INFO  [error]   not found: https://repo1.maven.org/maven2/com/example/sbt-openapi-codegen_2.12_1.0/0.1.0-SNAPSHOT/sbt-openapi-codegen-0.1.0-SNAPSHOT.pom
+2024.11.19 11:25:42 INFO  [error]   not found: C:\Users\Asus\.ivy2\localcom.example\sbt-openapi-codegen\scala_2.12\sbt_1.0\0.1.0-SNAPSHOT\ivys\ivy.xml
+2024.11.19 11:25:42 INFO  [error]   not found: https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.example/sbt-openapi-codegen/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/ivys/ivy.xml
+2024.11.19 11:25:42 INFO  [error]   not found: https://repo.typesafe.com/typesafe/ivy-releases/com.example/sbt-openapi-codegen/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/ivys/ivy.xml
+2024.11.19 11:25:42 INFO  [error] 	at lmcoursier.CoursierDependencyResolution.unresolvedWarningOrThrow(CoursierDependencyResolution.scala:346)
+2024.11.19 11:25:42 INFO  [error] 	at lmcoursier.CoursierDependencyResolution.$anonfun$update$39(CoursierDependencyResolution.scala:315)
+2024.11.19 11:25:42 INFO  [error] 	at scala.util.Either$LeftProjection.map(Either.scala:573)
+2024.11.19 11:25:42 INFO  [error] 	at lmcoursier.CoursierDependencyResolution.update(CoursierDependencyResolution.scala:315)
+2024.11.19 11:25:42 INFO  [error] 	at sbt.librarymanagement.DependencyResolution.update(DependencyResolution.scala:60)
+2024.11.19 11:25:42 INFO  [error] 	at sbt.internal.LibraryManagement$.resolve$1(LibraryManagement.scala:60)
+2024.11.19 11:25:42 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$12(LibraryManagement.scala:142)
+2024.11.19 11:25:42 INFO  [error] 	at sbt.util.Tracked$.$anonfun$lastOutput$1(Tracked.scala:74)
+2024.11.19 11:25:42 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$11(LibraryManagement.scala:144)
+2024.11.19 11:25:42 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$11$adapted(LibraryManagement.scala:131)
+2024.11.19 11:25:42 INFO  [error] 	at sbt.util.Tracked$.$anonfun$inputChangedW$1(Tracked.scala:220)
+2024.11.19 11:25:42 INFO  [error] 	at sbt.internal.LibraryManagement$.cachedUpdate(LibraryManagement.scala:169)
+2024.11.19 11:25:42 INFO  [error] 	at sbt.Classpaths$.$anonfun$updateTask0$1(Defaults.scala:3888)
+2024.11.19 11:25:42 INFO  [error] 	at scala.Function1.$anonfun$compose$1(Function1.scala:49)
+2024.11.19 11:25:42 INFO  [error] 	at sbt.internal.util.$tilde$greater.$anonfun$$u2219$1(TypeFunctions.scala:63)
+2024.11.19 11:25:42 INFO  [error] 	at sbt.std.Transform$$anon$4.work(Transform.scala:69)
+2024.11.19 11:25:42 INFO  [error] 	at sbt.Execute.$anonfun$submit$2(Execute.scala:283)
+2024.11.19 11:25:42 INFO  [error] 	at sbt.internal.util.ErrorHandling$.wideConvert(ErrorHandling.scala:24)
+2024.11.19 11:25:42 INFO  [error] 	at sbt.Execute.work(Execute.scala:292)
+2024.11.19 11:25:42 INFO  [error] 	at sbt.Execute.$anonfun$submit$1(Execute.scala:283)
+2024.11.19 11:25:42 INFO  [error] 	at sbt.ConcurrentRestrictions$$anon$4.$anonfun$submitValid$1(ConcurrentRestrictions.scala:265)
+2024.11.19 11:25:42 INFO  [error] 	at sbt.CompletionService$$anon$2.call(CompletionService.scala:65)
+2024.11.19 11:25:42 INFO  [error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+2024.11.19 11:25:42 INFO  [error] 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+2024.11.19 11:25:42 INFO  [error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+2024.11.19 11:25:42 INFO  [error] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+2024.11.19 11:25:42 INFO  [error] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+2024.11.19 11:25:42 INFO  [error] 	at java.base/java.lang.Thread.run(Thread.java:840)
+2024.11.19 11:25:42 INFO  [error] (update) sbt.librarymanagement.ResolveException: Error downloading com.example:sbt-openapi-codegen;sbtVersion=1.0;scalaVersion=2.12:0.1.0-SNAPSHOT
+2024.11.19 11:25:42 INFO  [error]   Not found
+2024.11.19 11:25:42 INFO  [error]   Not found
+2024.11.19 11:25:42 INFO  [error]   not found: https://repo1.maven.org/maven2/com/example/sbt-openapi-codegen_2.12_1.0/0.1.0-SNAPSHOT/sbt-openapi-codegen-0.1.0-SNAPSHOT.pom
+2024.11.19 11:25:42 INFO  [error]   not found: C:\Users\Asus\.ivy2\localcom.example\sbt-openapi-codegen\scala_2.12\sbt_1.0\0.1.0-SNAPSHOT\ivys\ivy.xml
+2024.11.19 11:25:42 INFO  [error]   not found: https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.example/sbt-openapi-codegen/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/ivys/ivy.xml
+2024.11.19 11:25:42 INFO  [error]   not found: https://repo.typesafe.com/typesafe/ivy-releases/com.example/sbt-openapi-codegen/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/ivys/ivy.xml
+2024.11.19 11:25:42 INFO  [warn] Project loading failed: (r)etry, (q)uit, (l)ast, or (i)gnore? (default: r)
+2024.11.19 11:25:42 INFO  time: ran 'sbt bloopInstall' in 1m23s
+2024.11.19 11:25:42 INFO  no build target found for C:\Users\Asus\Downloads\project\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.19 11:25:42 ERROR sbt command failed: C:\Users\Asus\AppData\Local\Coursier\cache\arc\https\github.com\adoptium\temurin17-binaries\releases\download\jdk-17.0.13%252B11\OpenJDK17U-jdk_x64_windows_hotspot_17.0.13_11.zip\jdk-17.0.13+11\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -Dsbt.version=1.10.5 -jar C:\Users\Asus\AppData\Local\Temp\metals8687387871404667894\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall
+2024.11.19 11:25:43 INFO  no build target found for C:\Users\Asus\Downloads\project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.19 11:28:31 INFO  no build target found for C:\Users\Asus\Downloads\project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.19 11:28:32 INFO  no build target found for C:\Users\Asus\Downloads\project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.19 11:28:32 WARN  Could not find semantic tokens for: file:///C:/Users/Asus/Downloads/project/build.sbt
+2024.11.19 11:28:34 INFO  no build target found for C:\Users\Asus\Downloads\project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.19 11:29:53 INFO  Shutting down server
+2024.11.19 11:29:53 INFO  shutting down Metals
+2024.11.19 11:29:53 INFO  Exiting server

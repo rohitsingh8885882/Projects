@@ -1,0 +1,10 @@
+[debug] downloaded https://repo1.maven.org/maven2/com/example/sbt-openapi-codegen_2.12_1.0/0.1.0-SNAPSHOT/sbt-openapi-codegen_2.12_1.0-0.1.0-SNAPSHOT.pom
+[debug] downloaded https://repo1.maven.org/maven2/com/example/sbt-openapi-codegen_2.12_1.0/0.1.0-SNAPSHOT/sbt-openapi-codegen_2.12_1.0-0.1.0-SNAPSHOT.pom.sha1
+[debug] downloaded https://repo1.maven.org/maven2/com/example/sbt-openapi-codegen_2.12_1.0/0.1.0-SNAPSHOT/sbt-openapi-codegen-0.1.0-SNAPSHOT.pom
+[debug] downloaded https://repo1.maven.org/maven2/com/example/sbt-openapi-codegen_2.12_1.0/0.1.0-SNAPSHOT/sbt-openapi-codegen-0.1.0-SNAPSHOT.pom.sha1
+[debug] downloaded https://repo1.maven.org/maven2/com/example/sbt-openapi-codegen_2.12_1.0/0.1.0-SNAPSHOT/maven-metadata.xml
+[debug] downloaded https://repo1.maven.org/maven2/com/example/sbt-openapi-codegen_2.12_1.0/0.1.0-SNAPSHOT/maven-metadata.xml.sha1
+[debug] downloaded https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.example/sbt-openapi-codegen/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/ivys/ivy.xml
+[debug] downloaded https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.example/sbt-openapi-codegen/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/ivys/ivy.xml.sha1
+[debug] downloaded https://repo.typesafe.com/typesafe/ivy-releases/com.example/sbt-openapi-codegen/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/ivys/ivy.xml
+[debug] downloaded https://repo.typesafe.com/typesafe/ivy-releases/com.example/sbt-openapi-codegen/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/ivys/ivy.xml.sha1

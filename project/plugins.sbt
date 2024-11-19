@@ -1,0 +1,1 @@
+addSbtPlugin("com.example" % "sbt-openapi-codegen" % "0.1.0-SNAPSHOT")
