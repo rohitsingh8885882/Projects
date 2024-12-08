@@ -1,0 +1,9 @@
+{
+  "name": "social-media-automation",
+  "private": true,
+  "scripts": {
+    "start": "python3 social_media_bot.py",
+    "gui": "streamlit run app.py",
+    "test": "python3 -m pytest tests/"
+  }
+}

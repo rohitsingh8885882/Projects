@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  social-media-bot:
+    build: .
+    env_file: .env
+    volumes:
+      - ./logs:/app/logs
+    ports:
+      - "8000:8000"  # For Prometheus metrics
+      - "8501:8501"  # For Streamlit GUI
+    restart: always
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/metrics"]
+      interval: 1m
+      timeout: 10s
+      retries: 3

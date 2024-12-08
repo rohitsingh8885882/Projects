@@ -1,0 +1,1 @@
+worker: python social_media_bot.py
